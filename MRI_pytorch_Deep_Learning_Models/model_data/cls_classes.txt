@@ -1,0 +1,4 @@
+Class-S-Freshness
+Class-A-Freshness
+Class-B-Freshness
+Class-C-Freshness
